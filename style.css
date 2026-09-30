@@ -9,8 +9,9 @@ body {
 
 h1 {
   font-family: 'Archivo Black', sans-serif;
-  font-size: 8vw;
-  line-height: 0.85;
+  font-size: 13vw;
+  line-height: 1.05;
+  letter-spacing: 2px;
   margin: 0;
   position: absolute;
   top: 50%;
