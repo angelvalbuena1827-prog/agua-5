@@ -44,11 +44,13 @@ a:hover {
 
 .texto {
   margin: 0;
-  font-family: 'Work Sans', sans-serif;
-  font-size: 20px;
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 4vw;
+  line-height: 1.1;
   text-align: center;
+  color: #FE8CE1;
+  text-shadow: 5px 5px 0 #000000;
 }
-
 .contenedor-imagen {
   border-style: solid;
   border-color: white;
