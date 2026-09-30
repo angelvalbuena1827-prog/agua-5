@@ -7,6 +7,10 @@ body {
   padding: 0;
 }
 
+body.inicio {
+  background-color: #4B2A6B;
+}
+
 h1 {
   font-family: 'Archivo Black', sans-serif;
   font-size: 13vw;
