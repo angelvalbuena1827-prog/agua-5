@@ -28,9 +28,9 @@ a {
 }
 
 a:hover {
-  color: #F80000;
-  background-color: #FE8CE1;
-  text-shadow: 4px 4px 0 #000000;
+  color: #8B5CF6;
+  background-color: transparent;
+  text-shadow: 3px 3px 0 #000000;
 }
 
 #contenido {
